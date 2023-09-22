@@ -1,0 +1,8 @@
+Weighted:     PLNGC_11_12_9_35_1                  - 0.971258375
+Gcc:             PLNGC_11_12_9_35_1_gcc.10m.out - 0.9767311
+Mcf:             PLNGC_14_12_8_32_1_mcf.10m.out - 0.9993096
+Perl:             PLNGC_11_12_9_35_1_perlbench.10m.out - 0.9531509
+x264:            PLNGC_15_11_8_47_1_x264.10m.out - 0.9568599
+
+For best: 
+Gcc - 0.9767311 Mcf - 0.9992847 Perl - 0.9531509 x264 - 0.9559127

@@ -1,0 +1,20 @@
+printf("Yeh-Patt: Creating a history table of %" PRIu64 " entries of length %" PRIu64 "\n", ...)
+printf("Yeh-Patt: Creating a pattern table of %" PRIu64 " 2-bit saturating counters\n", ...)
+printf("\tYeh-Patt: Predicting... \n");
+printf("\t\tHT index: 0x%" PRIx64 ", History: 0x%" PRIx64 ", PT index: 0x%" PRIx64 ", Prediction: %d\n", ...)
+printf("\tYeh-Patt: Updating based on actual behavior: %d\n", ...)
+printf("\t\tHT index: 0x%" PRIx64 ", History: 0x%" PRIx64 ", PT index: 0x%" PRIx64 ", New Counter: 0x%" PRIx64 ", New History: 0x%" PRIx64 "\n", ...)
+printf("Perceptron: Creating a Perceptron table of %" PRIu64 " perceptrons each with %" PRIu64 " weights\n", ...)
+printf("Perceptron: Theta: %" PRIu64 "\n", ...)
+printf("\tPerceptron: Predicting... \n");
+printf("\t\tPerceptron Table index: 0x%" PRIx64 ", Global History: 0x%" PRIx64 ", Y: %" PRId64 ", Prediction: %d\n", ...)
+printf("\tPerceptron: Updating based on actual behavior: %d\n", ...)
+printf("\t\tNew Global History: 0x%" PRIx64 "\n", ...)
+printf("Tournament: Creating a table of %" PRIu64 " 4-bit counters initialized to: 0x%" PRIx64 "\n", ...)
+printf("\tTournament: Getting Predictions... \n");
+printf("\tTournament: Choosing... \n");
+printf("\t\tTournament index: 0x%" PRIx64 ", Choice: %d, Prediction: %d\n", ...)
+printf("\tTournament: Updating others based on actual behavior: %d\n", ...)
+printf("\tTournament: Updating based on actual behavior: %d\n", ...)
+printf("\t\tUpdating index: 0x%" PRIx64 ", New Counter: 0x%" PRIx64 "\n", ...)
+printf("\t\tPredictors agreed so no prediction to make\n");

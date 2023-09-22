@@ -1,0 +1,7 @@
+Sorted double list: [1.502, 1.455, 1.455, 1.437, 1.246, 1.215, 1.208, 1.193, 1.17, 1.157, 1.14, 1.118, 1.039, 1.015, 0.932, 0.909, 0.895]
+Sorted string list: [PFSAML_64_2_2_1_1_3_cachesim_gcc.out, PFSAML_64_2_2_1_1_2_tiledmm.out, PFSAML_64_2_2_1_1_2_tiledmm.out, PFSAML_64_2_2_1_1_2_cachesim_gcc.out, PFSAML_64_2_2_1_2_1_cachesim_gcc.out, PFSAML_64_2_2_1_1_1_cachesim_gcc.out, PFSAML_64_2_2_1_1_3_perceptron_gcc.out, PFSAML_64_2_2_1_1_2_perceptron_gcc.out, PFSAML_64_2_2_1_2_1_tiledmm.out, PFSAML_64_2_2_1_2_1_perceptron_gcc.out, PFSAML_64_2_2_1_1_1_tiledmm.out, PFSAML_64_2_2_1_1_1_perceptron_gcc.out, PFSAML_64_2_2_1_1_3_bfs_2_15.out, PFSAML_64_2_2_1_1_2_bfs_2_15.out, PFSAML_64_2_4_1_1_1_bfs_2_15.out, PFSAML_64_2_2_1_2_1_bfs_2_15.out, PFSAML_64_2_2_1_1_1_bfs_2_15.out]
+
+Top Three:
+1. PFSAML_64_2_2_1_1_3_cachesim_gcc.out: 1.502
+2. PFSAML_64_2_2_1_1_2_tiledmm.out: 1.455
+3. PFSAML_64_2_2_1_1_2_tiledmm.out: 1.455

@@ -1,0 +1,6 @@
+Top Three:
+1. 2.015: [PFSAML_128_8_8_3_1_3_perceptron_gcc.out, PFSAML_128_8_8_3_2_3_perceptron_gcc.out, PFSAML_64_8_8_3_1_3_perceptron_gcc.out, PFSAML_64_8_8_3_2_3_perceptron_gcc.out, PFSAML_96_8_8_3_1_3_perceptron_gcc.out, PFSAML_96_8_8_3_2_3_perceptron_gcc.out]
+2. 2.012: [PFSAML_128_8_4_3_2_3_perceptron_gcc.out, PFSAML_64_8_4_3_2_3_perceptron_gcc.out, PFSAML_96_8_4_3_2_3_perceptron_gcc.out]
+3. 2.011: [PFSAML_128_8_4_3_1_3_perceptron_gcc.out, PFSAML_64_8_4_3_1_3_perceptron_gcc.out, PFSAML_96_8_4_3_1_3_perceptron_gcc.out]
+4. 2.009: [PFSAML_128_8_2_3_2_3_perceptron_gcc.out, PFSAML_64_8_2_3_2_3_perceptron_gcc.out, PFSAML_96_8_2_3_2_3_perceptron_gcc.out]
+5. 2.008: [PFSAML_128_8_2_3_1_3_perceptron_gcc.out, PFSAML_64_8_2_3_1_3_perceptron_gcc.out, PFSAML_96_8_2_3_1_3_perceptron_gcc.out]

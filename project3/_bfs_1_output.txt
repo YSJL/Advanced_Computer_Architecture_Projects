@@ -1,0 +1,4 @@
+Top Three:
+1. 1.443: [PFSAML_128_8_4_3_1_3_bfs_2_15.out, PFSAML_128_8_4_3_2_3_bfs_2_15.out, PFSAML_128_8_8_3_1_3_bfs_2_15.out, PFSAML_128_8_8_3_2_3_bfs_2_15.out, PFSAML_96_8_4_3_1_3_bfs_2_15.out, PFSAML_96_8_4_3_2_3_bfs_2_15.out, PFSAML_96_8_8_3_1_3_bfs_2_15.out, PFSAML_96_8_8_3_2_3_bfs_2_15.out]
+2. 1.44: [PFSAML_128_8_2_3_2_3_bfs_2_15.out, PFSAML_64_8_4_3_1_3_bfs_2_15.out, PFSAML_64_8_4_3_2_3_bfs_2_15.out, PFSAML_64_8_8_3_1_3_bfs_2_15.out, PFSAML_64_8_8_3_2_3_bfs_2_15.out, PFSAML_96_8_2_3_2_3_bfs_2_15.out]
+3. 1.437: [PFSAML_128_8_2_3_1_3_bfs_2_15.out, PFSAML_64_8_2_3_2_3_bfs_2_15.out, PFSAML_96_8_2_3_1_3_bfs_2_15.out]
