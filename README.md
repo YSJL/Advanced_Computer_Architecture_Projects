@@ -1,0 +1,7 @@
+# Advanced_Computer_Architecture_Projects
+- Completed Series of projects that implemented simulators of Computer Architecture concepts using C++
+- Derived optimal configuration of each simulators by running custom benchmarks for each projects using Bash Shell scripts
+- Implemented FOCO processor using Tomasulo Algorithm with PReg & RAT based on the Intel Pentium 2 Architecture with functional support for cache misses and branch mispredictions. 
+- Implemented two types of caches: PIPT L1 Cache, VIPT L1 Cache with TLB with LRU Replacement Policy & Write-Back Write-Allocate Write Policy
+- Implemented two level Local History branch predictor (Yeh-Patt), Perceptron branch predictors, and Tournament predictor between the two predictors
+- Implemented agent and directory controllers for cache coherence protocols on a multiprocessor which maintain coherent caches for the MSI, MESI, MOSI, MESIF, and MOESIF protocols.
